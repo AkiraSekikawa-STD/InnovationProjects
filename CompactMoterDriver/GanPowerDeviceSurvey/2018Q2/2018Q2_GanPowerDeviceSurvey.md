@@ -21,6 +21,8 @@
 ![GaN-Systems](Pictures/Logos/Logo_Navitas.png) 
 ---
 
+## Released Power Devices
+* ### The following shows already released GaN technology based devices (FET and integrated module).
 ## EPC : [eGaN FET](https://epc-co.com/epc/Products/eGaNFETsandICs.aspx "eGaN FET")
 ![EPC-Chip](Pictures/EPC/EPC2112-die.png)  
 ![EPC-Board](Pictures/EPC/EPC_Board.jpg) 
@@ -59,7 +61,9 @@
 | Product No. | Type | Id [A] | Rds [mOhm]| Qg [nC] | Qgs [nC] | Qgd [nC] | Qoss [nC] |
 |:-----------:|:----:|:------:|:---------:|:-------:|:--------:|:--------:|:---------:|
 | EPC2112 | Integrated Gate Driver | 10 | 40 | N/A | N/A | N/A | 24 |
+### [Data Sheet: EPC2112](DataSheets/EPC/EPC2112.pdf "Data Sheet")  
 ---
+
 ## TI : [GaN FET Modul](http://www.ti.com/power-management/gan/fet-modules/products.html "GaN FET Modul")
 ![TI Package](Pictures/TI/LMG5200_Package.jpg) ![TI Package](Pictures/TI/LMG5200_Schematic.png) 
 * ### ___Vds : 80V___
@@ -67,7 +71,7 @@
 |:-----------:|:----:|:------:|:---------:|:-------:|:--------:|:--------:|:---------:|
 | LMG5200 | Half-Bridge Integrated Gate Driver | 10 | 15 | N/A | N/A | N/A | 266 | 
 
-### [Data Sheet](DataSheets/TI/LMG5200.pdf "Data Sheet")  
+### [Data Sheet: LMG5200](DataSheets/TI/LMG5200.pdf "Data Sheet")  
 ### [Application Note: TIDA-00915](ApplicationNotes/TI/TIDA-00915.pdf "Application Note ")  
 ---
 
