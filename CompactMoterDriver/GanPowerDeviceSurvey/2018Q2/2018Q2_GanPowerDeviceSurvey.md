@@ -65,7 +65,8 @@
 | LMG5200 | Half-Bridge Integrated Gate Driver | 10 | 15 | N/A | N/A | N/A | 266 | 
 
 [Data Sheet](http://www.ti.com/lit/ds/symlink/lmg5200.pdf "Data Sheet")  
-
+[Application Note: TIDA-00915](http://www.tij.co.jp/jp/lit/ug/jaju269/jaju269.pdf "Application Note ")  
+[Application Note: TIDA-00915](ApplicationNotes/TI/TIDA-00915.pdf "Application Note ")  
 ---
 
 ## GaN Systems : [GaNPX E-HEMT](https://gansystems.com/gan-transistors/ "GaNPX E-HEMT")
