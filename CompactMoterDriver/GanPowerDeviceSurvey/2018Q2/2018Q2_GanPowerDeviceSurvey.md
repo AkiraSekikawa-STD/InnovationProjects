@@ -1,7 +1,10 @@
-# GaN Power Device 2018 Q2  
+# [2018 Q2] GaN Technology Based Power Device Survey Report    
 
-## Representative GaN power device manufacturers  
+## About this document
+* ### This document summarizes candidates of GaN technology based power devices for the next generation AC-Servo driver.
 ---
+## Representative GaN power device manufacturers
+
 * __EPC__(US)  
 ![EPC](Pictures/Logos/Logo_EPC.png)        
 * __TI__(US)  
@@ -64,9 +67,8 @@
 |:-----------:|:----:|:------:|:---------:|:-------:|:--------:|:--------:|:---------:|
 | LMG5200 | Half-Bridge Integrated Gate Driver | 10 | 15 | N/A | N/A | N/A | 266 | 
 
-[Data Sheet](http://www.ti.com/lit/ds/symlink/lmg5200.pdf "Data Sheet")  
-[Application Note: TIDA-00915](http://www.tij.co.jp/jp/lit/ug/jaju269/jaju269.pdf "Application Note ")  
-[Application Note: TIDA-00915](ApplicationNotes/TI/TIDA-00915.pdf "Application Note ")  
+### [Data Sheet](DataSheets/TI/LMG5200.pdf "Data Sheet")  
+### [Application Note: TIDA-00915](ApplicationNotes/TI/TIDA-00915.pdf "Application Note ")  
 ---
 
 ## GaN Systems : [GaNPX E-HEMT](https://gansystems.com/gan-transistors/ "GaNPX E-HEMT")
@@ -83,11 +85,13 @@
 ## Infineon : [CoolGan](https://www.infineon.com/cms/en/product/promopages/gallium-nitride/ "CoolGaN")  
 ![CoolGaN Package](Pictures/Infineon/CoolGaN_Package.JPG) 
 * ### __Vds : 600V__
+### Low Vds models have not been released yet. 
 ---
 
 ## Panasonic : [X-GaN FET](https://industrial.panasonic.com/ww/products/semiconductors/powerics/ganpower/gan-power-devices?reset=1 "X-GaN FET")  
 ![X-GaN Package](Pictures/Panasonic/X-GaN_Package.jpg) 
 * ### __Vds : 600V__
+### Low Vds models have not been released yet.
 ---
 
 
