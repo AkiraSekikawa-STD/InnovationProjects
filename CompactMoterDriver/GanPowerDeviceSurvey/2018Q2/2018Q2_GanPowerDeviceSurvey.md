@@ -80,7 +80,7 @@
 
 ---
 ## Infineon : [CoolGan](https://www.infineon.com/cms/en/product/promopages/gallium-nitride/ "CoolGaN")  
-![CoolGaN Package](Pictures/Infineon/CoolGaN_Package.jpg) 
+![CoolGaN Package](Pictures/Infineon/CoolGaN_Package.JPG) 
 * ### __Vds : 600V__
 ---
 
