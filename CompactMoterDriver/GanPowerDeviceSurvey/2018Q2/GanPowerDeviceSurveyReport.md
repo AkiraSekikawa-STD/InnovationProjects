@@ -72,7 +72,11 @@
 | Product No. | Type | Id [A] | Rds [mOhm]| Qg [nC] | Qgs [nC] | Qgd [nC] | Qoss [nC] |
 |:-----------:|:----:|:------:|:---------:|:-------:|:--------:|:--------:|:---------:|
 | LMG5200 | Half-Bridge Integrated Gate Driver | 10 | 15 | N/A | N/A | N/A | 266 | 
-
+* ### Features
+    * ### Gate driver capable of up to 10MHz switching 
+    * ### Minimized gate parasitic inductance thanks to optimized integrated packag  
+    * ### Internal bootstrap power system for high-side gate drive  
+    
 ### [Data Sheet: LMG5200](DataSheets/TI/LMG5200.pdf "Data Sheet")  
 ### [Application Note: TIDA-00915](ApplicationNotes/TI/TIDA-00915.pdf "Application Note ")  
 ---
@@ -99,8 +103,8 @@
 * ### __Vds : 600V__
 ### Low Vds models have not been released yet.
 ---
-
-
+## Summary
+* ### To be described
 
 
 
