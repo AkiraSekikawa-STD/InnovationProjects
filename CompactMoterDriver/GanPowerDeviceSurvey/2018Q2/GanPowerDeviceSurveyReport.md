@@ -2,6 +2,8 @@
 
 ## About this document
 * ### This document summarizes candidates of GaN technology based power devices for the next generation AC-Servo driver.
+* ### This survey focuses on power devices for 48V power-train application.
+* ### High voltge deveices (i.e 600V Vds devices) are out of scope. 
 ---
 ## Representative GaN power device manufacturers
 
